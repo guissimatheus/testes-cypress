@@ -7,6 +7,6 @@ Este projeto tem como finalidade automatizar os testes propostos definidos anter
 1. Executar o comando `npm i`
 2. Executar o comando `npx cypress open` 
 
-## Links úteis
+## Links Úteis
 
-- [Documentação](https://docs.cypress.io/) Cypress
+- [Documentação](https://docs.cypress.io/) do Cypress
